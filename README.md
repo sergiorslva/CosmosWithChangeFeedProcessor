@@ -2,8 +2,8 @@
 
 # Create a CosmosDB database
 
-    [Create a Cosmos database](https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/quickstart-portal)
-
+    https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/quickstart-portal
+    
 
 # Run API
 
